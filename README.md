@@ -26,6 +26,10 @@ Feel free to connect with me!
 - Threat detection and alert analysis.
 ## Compliance
 - Basics of GDPR, HIPAA, and PCI-DSS
+## Internal Security Audit
+- Assess network secuirty using tools like **NAMP** and **Wireshark**.
+- Evaluate password policies, user privileges, and system updates.
+- Ensure compliance with basic security frameworks (e.g., CIS Controls, NIST CSF).
 # Tools
 **Wireshark**
 - Captured and analyzed network traffic for packet anomalies.
@@ -41,5 +45,9 @@ Feel free to connect with me!
 - Configured a Linux virtual machine for cybersecurity labs.
 **Basic Scripting**
 - Created simple scriptsfor log analysis and task automation.
+**OpenVAS**
+- Vulnerability scanning (if available).
+**Manual Review**
+- Checked password policies, user roles, and system configurations.
 
 This section will grow as I progress in the course!
